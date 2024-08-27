@@ -159,14 +159,14 @@ input i{
   cursor: pointer;
   pointer-events: auto;
   z-index: 10;
-  color: rgb(255, 255, 255);
+  color: rgb(195, 62, 78);
   -webkit-transition: color 0.15s linear;
   transition: color 0.15s linear;
   font-size: 2rem;
 }
 
 .addItems .fa-edit {
-  color:#ffe9e7;
+  color:#ff5d4e;
 }
 
 .fa-edit {
